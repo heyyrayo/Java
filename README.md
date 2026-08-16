@@ -8,7 +8,7 @@ This repository contains simple Java practice programs.
 File: `first.java`
 
 Output:
-```text
+
 Hello, World!
 ```
 
@@ -16,7 +16,7 @@ Hello, World!
 File: `star1.java`
 
 Output:
-```text
+
 *
 **
 ***
@@ -27,7 +27,7 @@ Output:
 File: `star2.java`
 
 Output:
-```text
+
 ****
 ***
 **
