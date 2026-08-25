@@ -67,3 +67,7 @@ java first
 java star1
 java star2
 ```
+
+## Practice Notes
+
+- Star patterns are built with nested loops: an outer loop controls rows and an inner loop controls each row's content.
