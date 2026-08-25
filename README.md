@@ -71,3 +71,4 @@ java star2
 ## Practice Notes
 
 - Star patterns are built with nested loops: an outer loop controls rows and an inner loop controls each row's content.
+- The variable `n` defines the pattern size, so changing it is an easy way to practice different dimensions.
