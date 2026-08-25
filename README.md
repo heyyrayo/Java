@@ -72,3 +72,4 @@ java star2
 
 - Star patterns are built with nested loops: an outer loop controls rows and an inner loop controls each row's content.
 - The variable `n` defines the pattern size, so changing it is an easy way to practice different dimensions.
+- Increasing the leading-space loop moves characters toward the center and creates pyramid-shaped output.
