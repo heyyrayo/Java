@@ -75,3 +75,4 @@ java star2
 - Increasing the leading-space loop moves characters toward the center and creates pyramid-shaped output.
 - Odd-width rows such as `1, 3, 5` stars keep a pyramid visually centered around its middle column.
 - Hollow patterns replace most interior stars with spaces while keeping the border visible.
+- A conditional inside the inner loop can choose between printing `*` for an edge and a space for an interior position.
