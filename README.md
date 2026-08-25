@@ -78,3 +78,4 @@ java star2
 - A conditional inside the inner loop can choose between printing `*` for an edge and a space for an interior position.
 - Reversing a loop's direction changes an increasing pattern into a decreasing pattern without changing the output character.
 - Diagonal patterns compare the current row and column indexes, which makes the X and plus shapes easy to express.
+- Run `javac *.java` after edits to catch syntax errors across the complete practice collection.
